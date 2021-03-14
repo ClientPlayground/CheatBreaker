@@ -1,11 +1,7 @@
-# Free SkidWare!
+# CheatBreaker
+1.7.10 | Version 3ac10ce
 
-I wish i didn't have to do this.
+## Disclaimer
+This repo is for educational purposes only!
 
-# Mapped by Freddie & Decencies
-
-# Time taken:
-120+ hours of remapping
-5 hours of implementing
-10 hours of bugfixing
-32 hours porting websocket
+The purpose of this repo was for Decencies to practice his mapping skills.
